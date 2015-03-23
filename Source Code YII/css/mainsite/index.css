@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body
+{
+	margin:0;
+	padding:0;
+	font-family:Helvetica, Arial, Verdana, sans-serif;
+	background:#f0eeef 50% 0 no-repeat !important;
+		-moz-transition-duration: 0.1s;
+	-webkit-transition-duration: 0.1s;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+ul
+{
+	list-style:none;
+}
+
+.content
+{
+	height:auto;
+	width:970px;
+	margin:auto;
+	padding:5px;
+	margin-top:10px !important;
+	background-color:#fff;
+	float:left;
+}
+
+.left
+{
+	width:730px;
+	margin:auto !important;
+	margin-right:20px !important;
+	padding:10px;
+	height:auto;
+	float:left;
+	border-right:1px solid #999;
+}
+
+.right
+{
+	height:auto;
+	float:left;
+	width:200px;
+}
+
+.grid
+{
+	width:180px !important;
+	height:150px !important;
+	background:#fff !important; 
+	float:left;
+	margin-top:20px;
+	margin-right:20px;
+	transition: all 0.2s linear;
+	margin-bottom:10px;
+	border-radius:4px;
+	box-shadow:0px 0px 10px #999999;
+}
+
+.right-menu
+{
+	margin-bottom:20px;
+}
+
+
+
+.right h2
+{
+	font-size:18px;
+	width:230px;
+	padding:3px;
+	background-color:#f0eeef;
+}
+
+.right h2 a
+{
+	color:#993;
+}
+
+.right-menu li
+{
+	margin-bottom:10px;
+	margin-left:-30px;
+	padding:5px;
+}
+
+.right-menu li a
+{
+	color:#000;
+	-moz-transition:0.2 linear;
+	transition:all 0.2s linear;
+	line-height:30px !important;
+}
+
+.right-menu li a:hover
+{
+	color:#090;
+}
+
+
+
+
+.icon
+{
+	margin-right:10px;
+	float:left;
+}
+
+
+
+
+
