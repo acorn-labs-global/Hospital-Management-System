@@ -35,3 +35,19 @@ details and retrieve these details as and when required, and also to manipulate 
 
 <br><br>To avoid all these limitations and make the system working more accurately it needs to be computerized.
 
+#Elicit stakeholders requests
+
+<br>The stakeholders at the Hospital Management System are System Administrator, Patient, Management Staff, Nurses, Doctor, Database Administrator …..  
+ 
+<br>A Doctor can take cases, Can give prescription to Patient, Do Operations, Review Patients Health.
+<br>Nurses can give Medicine to Patients, Coordinate with Doctors in Operations, Reports to Doctors, Monitors Patients and their health.
+<br>Staff can do Cleaning , Dispose Wastes, Maintain Beds and Rooms.
+<br>Patient Interact with Doctors, Follow Doctor Instruction, Pay Bills, and give Feedback about Doctors
+<br>Billing Section Patient Billing, Discharge Billing, Give Salaries to Nurses, Staff and Doctors, Maintain tax records.
+<br>System Administrator can remove and modify employee details can add and delete them
+<br>Receptionist can also add Patient via registration, Allot bed to Patients, Allot Patient Appointment according to the availability of Doctors.
+<br>Validation System validates every input and output going in and out of the Database.
+<br>Database System Stores Data and enforce Constraints.
+
+
+<br><br><br># Opensource <3
