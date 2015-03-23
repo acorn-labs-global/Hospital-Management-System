@@ -20,3 +20,18 @@ details and retrieve these details as and when required, and also to manipulate 
 <br> Data’s are easily approachable.
 
 
+#Existing System
+
+<br>Existing system refers to the system that is being followed till now. 
+
+<br>Presently all the hospital functionalities are done manually. That is if a patient want to consult a doctor he need to wait their till his chance called. This is very difficult process.
+
+<br>Out_Patient tickets are distributed directly. The main disadvantage is time consuming
+<br>Lack of security of data.
+<br> Time consuming.
+<br> Consumes large volume of paper work.
+<br> Manual work
+<br> No direct role for the higher officials.
+
+<br><br>To avoid all these limitations and make the system working more accurately it needs to be computerized.
+
